@@ -50,14 +50,3 @@ async def khalid(client: Client, message: Message):
 
             ]
 
-        ),
-
-    )
-"https://t.me/q8lbot?startgroup=true"),
-                ],
-
-            ]
-
-        ),
-
-    )
