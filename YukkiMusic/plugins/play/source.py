@@ -20,7 +20,6 @@ from pyrogram import filters
 
 load_dotenv()
 
-BOT_USERNAME = getenv("BOT_USERNAME")
 
 
 @app.on_message(
