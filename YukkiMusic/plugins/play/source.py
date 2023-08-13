@@ -54,7 +54,7 @@ async def khalid(client: Client, message: Message):
         ),
 
     )
-"https://t.me/{BOT_USERNAME}?startgroup=true"),
+"https://t.me/q8lbot?startgroup=true"),
                 ],
 
             ]
