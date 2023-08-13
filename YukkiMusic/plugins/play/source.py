@@ -46,7 +46,7 @@ async def khalid(client: Client, message: Message):
                         "ᗩᒪE᙭ᗩ", url=f"https://t.me/RDPDDP"),
                 ],[
                     InlineKeyboardButton(
-                        "اضغط لاضافه البوت لمجموعتك✅.", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+                        "اضغط لاضافه البوت لمجموعتك✅.", url=f"https://t.me/q8lbot?startgroup=true"),
                 ],
 
             ]
